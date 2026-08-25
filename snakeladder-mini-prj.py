@@ -113,11 +113,7 @@
     }
   ],
   "metadata": {
-    "colab": {
-      "name": "Welcome To Colab",
-      "toc_visible": true,
-      "provenance": []
-    },
+ 
     "kernelspec": {
       "display_name": "Python 3",
       "name": "python3"
